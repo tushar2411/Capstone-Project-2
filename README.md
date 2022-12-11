@@ -19,13 +19,13 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 <p>This project contains two executable file, a technical document and a presentation as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>Rossmann_Sales_Prediction_Vithika_Karan.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
-  <li><b>Rossmann_Sales_Prediction_Part_2_Vithika_Karan_ipynb.ipynb</b> - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.</li>
+  <li><b>Rossmann_Retail_Sales_Prediction_Tushar_Khairnar.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
 </ul>
 
 <h4>Documentation:</h4>
 <ul>
-  <li><b>Technical Documentation.pdf</b> - Includes the complete documentation about the project.</li>
+  <li><b>Technical Document for Retail Sales Prediction.pdf
+</b> - Includes the complete documentation about the project.</li>
   <li><b>Project Presentation.pdf</b> - Presentation of the same.</li>
 </ul>
 
@@ -65,15 +65,14 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Vithika Karan > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
+< Tushar Khairnar > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithika-karan/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vithika-karan)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vithika16k)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/folders/1Y_MuQu-nm_EWUGiFsydd-c4EkaLeAkZi?usp=sharing)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-khairnar-b73659191/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushar2411)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1uxgKbZOfjzXkQCp7-pkhMbB6t2NV7rQq/view?usp=share_link)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
